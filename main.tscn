@@ -226,12 +226,12 @@ unique_name_in_owner = true
 
 [node name="Camera" type="Camera3D" parent="SimView/View/World/CameraPivot"]
 unique_name_in_owner = true
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 6.234)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 7.49388)
 keep_aspect = 0
 current = true
 
 [node name="DirectionalLight3D" type="DirectionalLight3D" parent="SimView/View/World/CameraPivot/Camera"]
-transform = Transform3D(1, 0, 0, 0, 0.997819, -0.0660129, 0, 0.0660129, 0.997819, 0, 0, 0.688)
+transform = Transform3D(1, 0, 0, 0, 0.997819, -0.0660129, 0, 0.0660129, 0.997819, 0, 0, 2.52329)
 directional_shadow_mode = 0
 
 [node name="CubeSat" type="Node" parent="SimView/View/World"]
